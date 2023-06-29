@@ -9,7 +9,7 @@
 
 ----
 
-## Things tha I know a little bit
+## Things that I know a little bit
 - I have worked in vanilla PHP for ages
 - Javascript has been ever-present back to jQuery days though I never really delved deeply… until now.
 - I have been recently doing projects in NextJs 13 with the App router.
