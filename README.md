@@ -5,7 +5,7 @@
 ## About me:
 - I am pretty great
 - I have been coding for longer than I generally admit to myself
-- I disc gold a lot
+- I disc golf a lot
 
 ----
 
